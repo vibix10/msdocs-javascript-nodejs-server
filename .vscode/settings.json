@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/4b36ab4c-c9ad-41d8-b014-646ef4bc5133/resourceGroups/postgre-sql/providers/Microsoft.Web/sites/ben1test250",
+  "appService.deploySubpath": "."
+}
